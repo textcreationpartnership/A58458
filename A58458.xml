@@ -1,0 +1,130 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the strange apparition of the five Jesuits lately executed at Tyburn upon the account of treason, being a wonderful token of their disquiet, and some things considerable referring to their guilt discovered to two gentlemen of eminent credit, upon the road between London and Acton, travelling for Chippenham in Wiltshire : closed up with an ingenious and merry piece of history, concerning no Jesuits in hell.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58458</idno>
+            <idno type="STC">Wing R871</idno>
+            <idno type="STC">ESTC R3918</idno>
+            <idno type="EEBO-CITATION">11885566</idno>
+            <idno type="OCLC">ocm 11885566</idno>
+            <idno type="VID">50361</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58458)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50361)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 508:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the strange apparition of the five Jesuits lately executed at Tyburn upon the account of treason, being a wonderful token of their disquiet, and some things considerable referring to their guilt discovered to two gentlemen of eminent credit, upon the road between London and Acton, travelling for Chippenham in Wiltshire : closed up with an ingenious and merry piece of history, concerning no Jesuits in hell.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesuits --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:50361:1"/>
+            <head>A RELATION OF THE Strange Apparition OF THE Five JESUITS Lately Executed at <hi>Tyburn</hi> upon the Account of TREASON.</head>
+            <head type="sub">Being a wonderful Token of their <hi>Diſquiet,</hi> and ſome Things conſiderable referring to their <hi>Guilt.</hi>
+            </head>
+            <p>Diſcovered to <hi>Two Gentlemen</hi> of Eminent Credit, upon the Road between <hi>London</hi> and <hi>Acton,</hi> Travelling for <hi>Chippenham</hi> in <hi>Wiltſhire.</hi>
+            </p>
+            <p>Cloſed up with an Ingenious and Merry Picce of Hiſtory, concerning No Jeſuits in Hell.</p>
+            <p>THE <hi>Appearance</hi> of the Deceaſed has always been admired, and enqui<g ref="char:EOLhyphen"/>red into by men of the beſt Learning and Conſideration, but eſpecially when the men whoſe Perſons have been repreſented, have left the World in a dubious, ſtrange or terrible manner, as is plain in the Caſe in hand. God, it's true, has bleſt us with a better way of Inſtruction, than can be communicated to the World by ſuch diſputable and uncertain <hi>Shapes;</hi> but yet, when ſuch things are, it becomes us not to ſlight or ſcorn, but make the beſt Improvement we can of them. But firſt to the <hi>Relation</hi> it ſelf: Upon <hi>Munday</hi> the 30th. of <hi>June,</hi> Mr. <hi>Robert Loe,</hi> and Mr. <hi>Thomas Pointwell,</hi> riding upon the Road between <hi>Tyburn</hi> and <hi>Acton,</hi> (intending for a Journey to <hi>Chippenham</hi> in <hi>Wiltſhirt</hi>) were met by the Appearance of one in a long Gown, at firſt ſeeming<g ref="char:EOLhyphen"/>ly blue, but preſently the nearer approach changed it into a perfect red, which calling to one of theſe Travellers, ſaid, <hi>Loe, Loe, hear me;</hi> who immediately made a ſtand, being ſurprized with a great amazement upon his Spirit, for the
+<pb n="2" facs="tcp:50361:2"/>Apparition was ſo terrible, that his Courage failed him: while his Companion, who was paſſed on ſome little diſtance before, turning back to ſee for his Fellow-Traveller, diſcovers him ſurrounded with ſomething like a flame of Fire, which looked ſo terrifying to Mr. <hi>Pointwell,</hi> that for ſome few minutes he had not a power of moving either forward or backward; but upon a little re<g ref="char:EOLhyphen"/>collection, arguing himſelf into Fortitude, he rides up towards this Light, where he finds his Friend Mr. <hi>Loe</hi> in ſuch a tranſport of Amazement, as not to be able to utter one word: He alſo then ſeeing the ſame Apparition his Friend did; be<g ref="char:EOLhyphen"/>gan to enquire of him, what was the matter? To which immediately the Appa<g ref="char:EOLhyphen"/>rition it ſelf return'd ſome Anſwer, which could not by them be underſtood, and turned aſide his changeable Gown, even to the diſcovery of the Body which in<g ref="char:EOLhyphen"/>habited it, which then appear'd to be nothing but a flame of Fire. After which aſcended out of the ſame flame, the Appearance of other four men: The firſt in order taken notice of, ſtood cloathed in a ſeeming black Garment, and as to Age (as near as conjecture could draw the concluſion) did appear to be about the 70th. year, very Gray-headed, and of a feeble Conſtitution, who breathed out a deep groan, and ſaid, <hi>Hear me, for I am diſquieted, and long to be at rest; and now the occaſion of my diſquiet is ripened unto a diſcovery:</hi> Which ſaid, this va<g ref="char:EOLhyphen"/>niſheth away, and three more come in ſight, all having <hi>ghaſtly</hi> looks, not only reſembling the ſtate of Death ſimply conſidered as referring to the Body, but alſo a more terrible eſtate as referring to the Soul; theſe with one voice cry out, <hi>We (together with the other two that went before) are the five men lately Executed at</hi> Tyburn, <hi>upon the account of Treaſon againſt the King, for conſpiring his Death, and the change of Government: Go ye therefore and acquaint the Living, That as our Life did endeavour to create, ſo our Death has not removed, the Dangers of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>but they will accompliſh the deſigned end, unleſs the repentance of the Nation, and conviction and care of thoſe that ſit at the Helm, give a ſpeedy prevention.</hi> Having delivered theſe words with much concernedneſs, they all immediately diſappear'd, and there only remained ſuch a dark Fog, that the two Travellers were not able to ſee each other; and a Voice out of the Cloud delivered it ſelf in this wiſe: <hi>The light of our Life ſeems at preſent to be put out in this viſible World, but who ſhall quench that fire which is kindled among thoſe dark and black Coals, which we helped to pile together under obſcurity, while we converſed among the Li<g ref="char:EOLhyphen"/>ving? for here lies the ſtrange difficulty, a danger ſcarcely to be overcome.</hi> As ſoon as this ſhort Speech was delivered, there did a paleneſs appear through the dark Cloud, and after that it became ſo clearly light, that theſe two Travellers ſaw each other, as alſo the perſonated Appearance of thoſe <hi>Five Executed men,</hi> cloathed with pale Garments, who preſently fell into contention about the way and manner how the <hi>Diſcovery</hi> of their <hi>Diſquiet</hi> ſhould be made, whether to thoſe that rejoyced, or thoſe that mourned at their Fall; if to thoſe that re<g ref="char:EOLhyphen"/>joyced, then it would confirm the being of a <hi>Popiſh Plot,</hi> ſtrengthen the <hi>Prote<g ref="char:EOLhyphen"/>ſtants</hi> in their ill opinion of the <hi>Romanists,</hi> and blemiſh their own Reputation, and make them appear to be what the World ſaid of them, Men of turbulent and obſtinate minds, ſuch as accounted any thing to be juſt and good, that was once owned and projected by them, though never ſo treacherous, vile and baſe; if diſcovered to thoſe that mourned at their Fall, then it would either aggra<g ref="char:EOLhyphen"/>vate their ſorrow into a long debate, what to do with their Principles which were ſo much queſtioned after the dying ſtate, ſo hazardous to Peace and Eaſe in the inviſible World; or elſe it would make them ſuddenly leave their way of Profeſſion, as hateful and to be declined by all thoſe that have any inclination to be at Eaſe and Reſt, when gone out of the Body: Theſe were the apprehen<g ref="char:EOLhyphen"/>ſions
+<pb n="3" facs="tcp:50361:2"/>of ſome of them. Others were for haunting the abode of thoſe more Poli<g ref="char:EOLhyphen"/>tick men, though of never ſo great a Name and Place, who brought them into danger, and puſhed them on when in it, even unto Death, and an obſtinate de<g ref="char:EOLhyphen"/>nial of all their Guilt at the laſt gaſp of Life, only to confirm their own ſafety, or to promote an erroneous belief of the Virtue and Innocence of that way, which is founded upon the unproved Traditions of the moſt groſs ſort of Chriſtians in the World, into which they themſelves were trepann'd by a blinder manner of Education, or long abiding in thoſe Towns or Dominions where better Truths, and purer Chriſtianity were not admitted to diſplay themſelves, leſt the Policy and Grandeur of the <hi>Romiſh</hi> Church-men ſhould be demoliſhed, by the Kings and Princes governing the Chriſtian World. Theſe debates were not clearly ended by the whole number, but rather concluded by a confuſed murmur of every one in a ſeparate Voice, ſhewing their Diſquiet too great to be ended in a conjoyned Body, without longer debates, and more time and leiſure given to think what to ſay. But the forementioned Travellers being amazed at what was ſaid, together with the confuſion that ſeemed to end the <hi>Conſult,</hi> having no power to make enquiry into the matter, were endeavouring to get forward that they might purſue their Journey; when he that firſt ſtopped Mr. <hi>Loe</hi> upon the Road, took hold of him, and ſaid, <hi>Remember, Friend, that we died more upon the account of Policy, than Religion; I mean, as far as we were voluntary in our Deaths, de<g ref="char:EOLhyphen"/>ſigning to humour the fancy of ſome Greater than our ſelves, and yet hoping to arrive at Saintſhip and a glorious memory; but yet here we feel our ſelves under a violent ſting of Conſcience, and under that Diſquietude which threatens a long date before it draw to an end, if it end at all.</hi> No ſooner was this delivered, but all the other four ſhew themſelves, and ſpeak ſomething of a like reſemblance, but with great confuſion, conſtantly mixing promiſes and threats, and ſighs and groans toge<g ref="char:EOLhyphen"/>ther; and at the laſt, with one very deep and moſt lamentable <hi>Groan,</hi> theſe Ap<g ref="char:EOLhyphen"/>pearances all begin to tremble, and at firſt fall into a groſs and dark Cloud, which at length grew brighter and brighter, till at laſt it was wholly dwindled away into a purer Air.</p>
+            <p>This delivered theſe two Gentlemen from their interruption, giving them leave to purſue their Journey, but did not deliver them from their wondering and diſcourſing upon the ſame, in an extraordinary manner: They had not gone very far, before their wondering grew ſo compoſed, that it gave way to more rational Conferences, which interchangeably they improved into ſome good Concluſions, naturally deduced from what they had ſeen and heard; as, That the moſt men change their minds at or after Death; theſe men did it not at Death, therefore might be allowed the common priviledge of Mankind, to do it afterward, ſeeing they did it not before. It's certain enough, that the ſenti<g ref="char:EOLhyphen"/>ments of men in the Body, and thoſe that are ſeparate from it, are vaſtly differ<g ref="char:EOLhyphen"/>ing: That obdurate Conſciences may remain unſoftned even by Death it ſelf, till the Terrors of another World perform it: That even the worſt ſort of Reli<g ref="char:EOLhyphen"/>gion, may be attended with a ſort of moſt ſtout and firm Profeſſors; or, That a meer <hi>Artificial Religion,</hi> by long practice may ſo beſot men, as to make them obſtinate in its defence, even to Death it ſelf: That vaſt is the difference be<g ref="char:EOLhyphen"/>tween <hi>Natural Conſcience,</hi> which is bred up, tutor'd and diſciplin'd by <hi>Artificial Rules</hi> of a Religion contrived by Men, and that which is renewed, inſtructed and guided by the Spirit and Word of God: That there is not a poſſibility of ever truſting or believing the Profeſſors of that Religion, whoſe greateſt Prieſts and Leaders dare to leave the World, telling the moſt ſplendid, obſtinate and de<g ref="char:EOLhyphen"/>ſperate Lyes that can be contrived by Humane skill.</p>
+            <pb n="4" facs="tcp:50361:3"/>
+            <p>But hold, ſays Mr. <hi>Pointwell,</hi> theſe things are a little too grave and ſerious for men whoſe minds are juſt tired with <hi>affrights,</hi> and contemplation; I will there<g ref="char:EOLhyphen"/>fore a little refreſh my own and your Thoughts, with a true Hiſtory, referring to ſuch men as theſe whoſe Appearances we have ſeen, upon this Subject, <hi>That there are no Jeſuits in Hell:</hi> the thing was thus. A <hi>Jeſuit</hi> Preaching in the Great Church in <hi>Padua,</hi> towards the end of his Sermon he fell into a large Commendation of the Order of the <hi>Jeſuits,</hi> extolling it above all the <hi>Religious Orders</hi> that then were, or ever had been in the World, giving God thanks that he had the happineſs to be of that <hi>Order:</hi> And in the cloſe of his diſcourſe, he told his Auditory, that he would acquaint them with a Viſion which he had lately ſeen. The other Night, ſaid he, I dream'd that I was in Hell, where me<g ref="char:EOLhyphen"/>thought I ſaw Popes, Emperors, Kings, Queens, Cardinals, Biſhops, Abbots, Monks, Friers, and ſome of all ſorts of men both Eccleſiaſtical and Secular, but not one <hi>Jeſuit</hi> amongſt them all; which made me to bleſs God that ever I was born to be of ſo bleſſed a Society, which though it had ſent ſo many thouſands of that Holy Order to the Grave, yet never any of them went to Hell: And ſo he concluded his Sermon, with a freſh <hi>Encomium</hi> of the Society of <hi>Jeſuits.</hi>
+            </p>
+            <p>The next Sunday after, a <hi>Dominican Fryer</hi> Preached in the ſame Church, and he alſo towards the end of his Sermon, fell upon the high praiſes of the Order of the <hi>Jeſuits;</hi> repeating much of the <hi>Jeſuit</hi>'s Sermon the day before, and be<g ref="char:EOLhyphen"/>wailing himſelf that it was not his fortune to be of that Holy Order, whereof none ever went to Hell, as the Reverend Father had told them the day before: At laſt he told the People, that he alſo had ſeen a Viſion, and dreamed likewiſe one Night, that he was in Hell, where he ſaw Popes, Emperors, Kings, Cardi<g ref="char:EOLhyphen"/>nals, and all ſorts of Orders, as the <hi>Jeſuits</hi> had notably ſhewed them the day be<g ref="char:EOLhyphen"/>fore; but not a <hi>Jeſuit</hi> (ſaid the Fryer) could be ſeen amongſt them all: Then thought I to my ſelf, O what a bleſſed Order is this! O that I had been a <hi>Jeſuit,</hi> and not a <hi>Dominican!</hi> and ſtill I caſt my eyes aſide all over Hell, but could not find ſo much as a Piece of <hi>Jeſuit</hi> there, but ſtore of all other Religious Orders; yea, even of <hi>Dominicans,</hi> my own Order, I ſaw great ſtore. At laſt me-thought I beckon'd a Little Devil to me, and asked ſoftly in his ear, Whether there were any <hi>Jeſuits</hi> in that place or no? He anſwered, That there were none there, but that they were kept in an Hell by themſelves; which is a great Room under this, where (ſaid the Little Devil) there be abundance of them, and they come thi<g ref="char:EOLhyphen"/>ther ſo faſt, that my Maſter <hi>Lucifer</hi> ſcarce knows where to beſtow them; and be<g ref="char:EOLhyphen"/>ſides, they are ſo unruly, that if they were not kept by themſelves, every body would be ſoon weary of this place: He further told me, That his Maſter durſt not let them have any Gun-powder, for fear leſt they ſhould blow up this place.</p>
+            <p>This Story ended, the two Travellers arrived at their Dining-place, where they ceaſed any farther Conference upon things of this Subject, till a new opportunity.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
